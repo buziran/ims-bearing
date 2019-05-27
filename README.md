@@ -1,1 +1,1 @@
-This repo is dedicated to different failure-detection methods on NASA bearing dataset.
+This repo is dedicated to different failure-detection methods on NASA bearing dataset (http://data-acoustics.com/measurements/bearing-faults/bearing-4/).
