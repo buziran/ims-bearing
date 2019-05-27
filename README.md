@@ -1,0 +1,1 @@
+This repo is dedicated to different failure-detection methods on NASA bearing dataset.
